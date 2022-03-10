@@ -19,22 +19,22 @@ function Resume() {
                 </div>
                 <div className="resume-content">
                     <ResumeItem 
-                        year={'2015 - 2020'} 
-                        title={'Computer Science Teacher'}
-                        subTitle={'Sussex University'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        year={'2015 - 2018'} 
+                        title={'Parttime Job'}
+                        subTitle={'Parttime Job'}
+                        text={'In the past, I worked a lot of part-time jobs in order to have money to hang out with friends and save money so that I could go on to study and buy things. '} 
                     />
                     <ResumeItem 
-                        year={'2015 - Present'} 
-                        title={'Full Stack Developer'}
-                        subTitle={'Microsoft Studios'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        year={'2020 - 2021'} 
+                        title={'Graphic design'}
+                        subTitle={'Graphic design'}
+                        text={'When I was in college and I gained some knowledge of graphics making, I hired graphic designers such as logos and restaurant logos and made various graphics in order to save money. '} 
                     />
                     <ResumeItem 
-                        year={'2010 - 2017'} 
-                        title={'User Interface Designer'}
+                        year={'2021 - 2022'} 
+                        title={'Digital Marketting'}
                         subTitle={'Google Inc'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        text={'After I worked, I started to have some savings, I felt like having my own business, so I started investing in online business and making sales with my own graphics. '} 
                     />
                 </div>
                 <div className="small-title u-small-title-margin">
@@ -42,22 +42,22 @@ function Resume() {
                 </div>
                 <div className="resume-content ">
                     <ResumeItem 
-                        year={'201 - 2022'} 
-                        title={'Computer Science Degree'}
-                        subTitle={'Sussex University'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        year={'2012 - 2015'} 
+                        title={'College Samutprakarn'}
+                        subTitle={'Assumption College Samutprakarn'}
+                        text={'Assumption College Samutprakarn is a private Catholic school in Samut Prakan Province, Thailand. The school was founded and run by the Brothers of St '} 
                     />
                     <ResumeItem 
-                        year={'2015 - 2017'} 
-                        title={'A - Levels'}
-                        subTitle={'Church Hill High'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        year={'2015 - 2018'} 
+                        title={'Commercial College'}
+                        subTitle={'Bangna Commercial College'}
+                        text={'Bangna College of Commerce opened for teaching in the field of commerce, established on May 22, 1970, when it was established under the name "Bangna Commercial School" under the Department of Vocational Education By Mr. Bunnag-Khun Suthep Rungsang,  '} 
                     />
                     <ResumeItem 
-                        year={'2015 - 2017'} 
-                        title={'High School Graduation'}
-                        subTitle={'ABC School'}
-                        text={'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Culpa nihil impedit natus nostrum? Velit accusantium id quos, nihil vel quod.Quas, magni mollitia, aspernatur consequatur accusamus vero eum facere exercitationem velit suscipit ipsam placeat libero. '} 
+                        year={'2018 - 2022'} 
+                        title={'High School University'}
+                        subTitle={'Thai-Nichi Institute of Technology'}
+                        text={' is an industry-oriented private college located in Bangkok, Thailand. The college was established in 2006 by the Technology Promotion Association (Thailand-Japan). It was founded with the cooperation of Thai and Japanese organizations. '} 
                     />
                 </div>
             </InnerLayout>

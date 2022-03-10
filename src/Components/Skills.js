@@ -12,37 +12,37 @@ function Skills() {
                 <InnerLayout>
                     <div className="skills">
                         <ProgressBar 
-                            title={'HTML5'}
+                            title={'Phothoshop'}
                             width={'70%'}
                             text={'70%'}
                         />
                         <ProgressBar 
-                            title={'CSS3'}
+                            title={'Illustator'}
                             width={'90%'}
                             text={'90%'}
                         />
                         <ProgressBar 
-                            title={'JAVASCRIPT'}
+                            title={'Procreate'}
                             width={'85%'}
                             text={'85%'}
                         />
                         <ProgressBar 
-                            title={'JAVA'}
+                            title={'3Dmax'}
                             width={'60%'}
                             text={'60%'}
                         />
                         <ProgressBar 
-                            title={'PYTHON'}
+                            title={'Music'}
                             width={'95%'}
                             text={'95%'}
                         />
                         <ProgressBar 
-                            title={'React JS'}
+                            title={'Drawing'}
                             width={'75%'}
                             text={'75%'}
                         />
                         <ProgressBar 
-                            title={'UNITY'}
+                            title={'Premeier Pro'}
                             width={'75%'}
                             text={'75%'}
                         />

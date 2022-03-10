@@ -14,18 +14,16 @@ function HomePage() {
             <div className="typography">
                 <h1>Hi, I'm <span>Santapol Santipong</span></h1>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-                    Atque nihil voluptates ea dolore vel 
-                    repellat? Quia tenetur non quam exercitationem. Lorem ipsum dolor sit amet.
+                Thai-Nichi Institute of Technology
                 </p>
                 <div className="icons">
-                    <a href="https://codepen.io/pen/" className="icon i-facebook">
+                    <a href="https://www.facebook.com/profile.php?id=100012984072478" className="icon i-facebook">
                         <FacebookIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-github">
+                    <a href="https://github.com/Santapol" className="icon i-github">
                         <GithubIcon />
                     </a>
-                    <a href="https://codepen.io/pen/" className="icon i-youtube">
+                    <a href="https://www.youtube.com/watch?v=BQl4Uca2QB8&t=447s" className="icon i-youtube">
                         <YoutubeIcon />
                     </a>
                 </div>

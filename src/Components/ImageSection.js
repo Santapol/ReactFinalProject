@@ -10,11 +10,12 @@ function ImageSection() {
                 <img src={resume} alt=""/>
             </div>
             <div className="right-content">
-                <h4>I am <span>Lorem Ipsum</span></h4>
+                <h4>I am <span>Fiat</span></h4>
                 <p className="paragraph">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem, natus quas vero enim 
-                    praesentium delectus est id fugiat ab libero adipisci recusandae at maxime veritatis! 
-                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Excepturi, nesciunt.
+                Hello, my name is Fiat. I'm a person who smiles all the time. 
+                I'm a person who thinks about the future and is very serious about work.
+                 But I'm not good at coding because I like to draw and watch anime. 
+                 I like to eat delicious food because of our life. have to live to eat.
                     
                 </p>
                 <div className="about-info">
