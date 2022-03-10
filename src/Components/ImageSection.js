@@ -30,7 +30,7 @@ function ImageSection() {
                     <div className="info">
                         <p>: Santapol Santipong</p>
                         <p>: 21</p>
-                        <p>: Budishm </p>
+                        <p>: Buddhism </p>
                         <p>: Thai, Japanese, English </p>
                         <p>: Bangna, Samutprakarn</p>
                         <p>: Digital seller</p>
