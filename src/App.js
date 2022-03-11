@@ -12,9 +12,13 @@ import ResumePage from "./Pages/ResumePage";
 import ContactPage from "./Pages/ContactPage";
 import ProductPage from "./Pages/ProductPage";
 import CartPage from "./Pages/CartPage";
-import rootReducer from "./Redux/Reducer";
-import { Provider } from "react-redux";
-import { createStore } from "redux";
+
+//import { useState } from "react";
+//import { useEffect } from "react";
+
+import { Provider } from 'react-redux'
+import { createStore } from 'redux'
+import rootReducer from "./redux/reducers/index";
 
 
 const store = createStore(rootReducer)
