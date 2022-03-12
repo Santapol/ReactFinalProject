@@ -9,7 +9,6 @@ const CartPage = () => {
     <>
     <HomePageStyled>
     <MainLayout>
-    <h1><span className='reveal-text'>Cart</span></h1>
             <Title title={'Cart'} span={'Cart'}/>
               <InnerLayout>
                 <Cart/>

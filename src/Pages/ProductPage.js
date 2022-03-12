@@ -9,7 +9,6 @@ const ProductPage = () => {
     <>
     <HomePageStyled>
     <MainLayout>
-    <h1><span className='reveal-text'>Product</span></h1>
             <Title title={'Product'} span={'Product'}/>
               <InnerLayout>
                   <Product/>
